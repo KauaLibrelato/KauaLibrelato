@@ -1,4 +1,4 @@
-### Olá, prazer em conhecê-lo, me chamo Kauã Librelato da Costa👋
+### Hi, nice to meet you, I'm Kauã Librelato da Costa👋
 
 - 🔭 Atualmente estou cursando Engenharia de Software na UNISATC
 - 🌱 Estudando: HTML, CSS, JavaScript e Python

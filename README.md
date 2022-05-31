@@ -1,13 +1,14 @@
-### Hi, nice to meet you, I'm Kauã Librelato da Costa👋
+### Hi, nice to meet you, I'm Kauã Librelato da Costa 👋
 
-- 🔭 Atualmente estou cursando Engenharia de Software na UNISATC
-- 🌱 Estudando: HTML, CSS, JavaScript e Python
+- 🔭 I'm currently studying Software Engineering - UniSatc
+- 🌱 Studying: JavaScript,HTML, CSS, ReactJS and Python
+
 <div align="center">
   <a href="https://github.com/KauaLibrelato">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaLibrelato&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: flex, justify-content: center, align-items: center"><br>
+<div style="display: inline-block, align-items: center"><br>
   <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

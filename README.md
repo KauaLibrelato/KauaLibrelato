@@ -1,7 +1,7 @@
 ### Hi, nice to meet you, I'm Kauã Librelato da Costa 👋
 
 - 🔭 I'm currently studying Software Engineering - UniSatc
-- 🌱 Studying: JavaScript,HTML, CSS, ReactJS and Python
+- 🌱 Studying: TypeScript, React Native, CSS, ReactJs.
 
 <div align="center">
   <a href="https://github.com/KauaLibrelato">

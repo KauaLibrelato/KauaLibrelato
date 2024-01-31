@@ -15,4 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=KauaLibrelato&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <a href="https://github.com/KauaLibrelato">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaLibrelato&layout=compact&langs_count=7&theme=dark"/>
+</div>
